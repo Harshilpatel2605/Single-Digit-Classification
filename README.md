@@ -49,6 +49,3 @@ From the image, model predicted the number to be 3 with probability 0.87
 - Images should be **grayscale** (or will be converted automatically).
 - The model assumes the dataset follows a **Bernoulli distribution** (binary features).
 
-## 📜 License
-This project is open-source and free to use under the MIT License.
-
