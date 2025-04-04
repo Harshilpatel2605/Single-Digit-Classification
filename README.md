@@ -1,4 +1,4 @@
-Single Digit Classification using Bernoulli Naive Bayes
+## Single Digit Classification using Bernoulli Naive Bayes
 
 This project implements a Bernoulli Naive Bayes classifier for handwritten digit recognition using the MNIST dataset. It also allows users to test their own 28x28 images of digits.
 Features
@@ -11,11 +11,11 @@ Features
 
     Binarization & Preprocessing: Converts grayscale images to binary format for better classification.
 
-Input
+# Input
 
 The input image should be 28x28 pixels, and must have white digits written on black background(similar to that in MNIST dataset).
 
-Output
+# Output
 
 The model will output:
 
