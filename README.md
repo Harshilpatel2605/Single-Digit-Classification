@@ -19,9 +19,9 @@ The input image should be 28x28 pixels, and must have white digits written on bl
 
 The model will output:
 
-    The preprocessed image visualization
+    The Original colored Image & The preprocessed image visualization.
 
-    Predicted digit with its probability distribution
+    Predicted digit with its probability distribution.
 
 Example
 
