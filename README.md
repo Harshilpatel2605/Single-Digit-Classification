@@ -14,6 +14,7 @@ Features
 ## Input
 
 The input image should be 28x28 pixels, and must have white digits written on black background(similar to that in MNIST dataset).
+Take image from the "testing" folder. It meets all the requirements.
 
 ## Output
 
